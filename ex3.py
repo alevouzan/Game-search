@@ -1,6 +1,3 @@
-# 6.034 Fall 2010 Lab 3: Games
-# Name: <Your Name>
-# Email: <Your Email>
 
 from util import INFINITY
 
